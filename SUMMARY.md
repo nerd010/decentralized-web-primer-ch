@@ -1,6 +1,7 @@
-# [前言](README.md)
+# Summary
 
-# [目录](Table_of_Contents.md)
+## Introduction
+* [Introduction](README.md)
 
 ## 第 1 章：安装和初始化 IPFS
 * [简介](part1/README.md)
@@ -24,17 +25,17 @@
 * [使用 HTTP 浏览器从本地 IPFS 网关检索文件](part4/4-1.md)
 * [通过公共的 ipfs.io 网关获取文件内容](part4/4-2.md)
 * [通过任意 IPFS 网关访问 IPFS 的内容](part4/4-3.md)
-* [**TODO** 将 DNS 映射到 IPNS](part4/4-4.md)
-* [**TODO** 在 IPFS 上的流媒体视频](part4/4-5.md)
+* [TODO 将 DNS 映射到 IPNS](part4/4-4.md)
+* [TODO 在 IPFS 上的流媒体视频](part4/4-5.md)
 
 ## 第 5 章：访问和分发 IPFS 的多种方式
 * [简介](part5/README.md)
 * [内容寻址的能力](part5/5-1.md)
 * [从一个 Peer(节点) 中检索内容](part5/5-2.md)
 * [阅读关于与经典(HTTP) 网络交互的教程](part5/5-3.md)
-    - [使用 HTTP 浏览器从本地 IPFS 网关检索文件](part5/5-3-1.md)
-    - [在 ipfs.io 上使用公共 IPFS 网关](part5/5-3-2.md)
-    - [通过任意 IPFS 网关访问 IPFS 的内容](part5/5-3-3.md)
+    * [使用 HTTP 浏览器从本地 IPFS 网关检索文件](part5/5-3-1.md)
+    * [在 ipfs.io 上使用公共 IPFS 网关](part5/5-3-2.md)
+    * [通过任意 IPFS 网关访问 IPFS 的内容](part5/5-3-3.md)
 * [通过 Tor 网关访问 IPFS 内容（实验性）](part5/5-4.md)
 * [通过 Tor transport 运行 IPFS](part5/5-5.md)
 * [通过浏览器插件访问 IPFS 内容](part5/5-6.md)
@@ -70,9 +71,11 @@
 ## 第 10 章：在 IPFS 上的动态内容
 * [简介](part10/README.md)
 * [免责声明：IPFS 上的动态内容是一项正在进行的工作](part10/10-1.md)
-* [将数据添加到 DAG](本地)
-* [将你的更改告诉 Peers ](part10/10-2.md)
-* [使用哈希来从 IPFS 上获取他人的修改](part10/10-3.md)
-* [使用发布订阅策略来传递有关修改的消息](part10/10-4.md)
+* [将数据添加到 DAG（本地）](part10/10-2.md)
+* [将你的更改告诉 Peers ](part10/10-3.md)
+* [使用哈希来从 IPFS 上获取他人的修改](part10/10-4.md)
+* [使用发布订阅策略来传递有关修改的消息](part10/10-5.md)
 
-## 分布式计算
+## 第 11 章：分布式计算
+* [简介](part11/README.md)
+
