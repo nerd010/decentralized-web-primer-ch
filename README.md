@@ -2,11 +2,13 @@
 
 ===
 
+从 gitbook 上发现了这本书的英文版，所以想把它翻遍成中文版，如果你有兴趣，可以一起:), 目前仅做学习交流用。只有晚上有时间更新。
+
 这份简介包括一系列说明 IPFS，Merkle Trees 和 分布式网络的教程，它主要通过 gitbook 来写和维护，所以大家可以用许多格式来阅读。
 
 当完成时，这份简介将完全替换这个 [https://ipfs.io/docs/examples/](https://ipfs.io/docs/examples/)
 
-这本书的 github 仓库是: [ [https://github.com/flyingzumwalt/decentralized-web-primer](https://github.com/flyingzumwalt/decentralized-web-primer)
+这本书的 github 英文版仓库是: [ [https://github.com/flyingzumwalt/decentralized-web-primer](https://github.com/flyingzumwalt/decentralized-web-primer)
 
 # 获得帮助
 
