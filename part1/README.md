@@ -27,8 +27,8 @@
 
 ## 下一步
 
-当你知道如何添加文件到 IPFS 和 检索他们，你将准备好在 P2P 网络上分享这些文件：[Tutorial: Going Online - Joining the Distributed Web](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/going-online/)
+当你学会如何在IPFS上添加、检索文件后，就可以按照以下教程来学习如何在P2P网络上来分享文件了：[Tutorial: Going Online - Joining the Distributed Web](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/going-online/)
 
-如果你想知道在你分享之后怎样更新这些文件，请看[在 Permanent Web 上发布更改](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/publishing-changes/)
+如果你想知道在你分享之后怎样更新这些文件，请[参看教程](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/publishing-changes/)
 
-如果你想知道怎样通过传统的 HTTP 网站访问这些文件，请访问 [与经典 HTTP 网站交互](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/classical-web/)
+如果你想知道怎样通过传统的 HTTP 网站访问这些文件，请 [参看教程](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/classical-web/)

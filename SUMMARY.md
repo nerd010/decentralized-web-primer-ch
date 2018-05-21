@@ -10,7 +10,7 @@
 
 ## 第 2 章: IPFS 中的文件
 * [简介](part2/README.md)
-* [添加内容到 IPFS 并检索它](part2/2-1.md)
+* [上传文件到 IPFS 并检索它](part2/2-1.md)
 * [打包有关内容的文件名与目录信息](part2/2-2.md)
 * [Pinning -- 告诉 IPFS 保留文件](part2/2-3.md)
 

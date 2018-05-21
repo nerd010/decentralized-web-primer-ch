@@ -4,7 +4,7 @@
 
 从 gitbook 上发现了这本书的英文版，所以想把它翻遍成中文版，如果你有兴趣，可以一起:), 目前仅做学习交流用。只有晚上有时间更新。
 
-这份简介包括一系列说明 IPFS，Merkle Trees 和 分布式网络的教程，它主要通过 gitbook 来写和维护，所以大家可以用许多格式来阅读。
+这份简介包括一系列说明 IPFS，Merkle Trees 和 分布式网络的教程，它主要通过 gitbook 来编辑和完善，所以大家可以用多种格式来阅读。
 
 当完成时，这份简介将完全替换这个 [https://ipfs.io/docs/examples/](https://ipfs.io/docs/examples/)
 
@@ -12,7 +12,8 @@
 
 # 获得帮助
 
-在这些教程中，如果你有任何的问题随时都可以在  [the IPFS forums](https://discuss.ipfs.io/) 或 在  [the #ipfs channel on chat.freenode.net](irc://chat.freenode.net/%23ipfs) 中随时问他们。
+在学习该教程的过程中，如果你有任何的问题随时都可以在  [the IPFS 论坛](https://discuss.ipfs.io/) 或 访问 [chat.freenode.net](irc://chat.freenode.net/%23ipfs) 进入ipfs频道进行咨询。在上面我们有一个庞大、活跃的群体都在此寻求帮助或发表见解。
+
 
 # 教程
 
@@ -68,5 +69,5 @@
 *   @wraithgar
 *   @adambrault
 *   @donothesitate
-*   @djdv plus a long list of [contributors to the examples repository](https://github.com/ipfs/examples/network/members)
+*   @djdv 加上一个长长的[贡献者库的名单](https://github.com/ipfs/examples/network/members)
 
