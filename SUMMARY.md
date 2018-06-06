@@ -21,7 +21,7 @@
 * [从一个 Peer(节点) 中检索内容](part3/3-3.md)
 
 ## 第 4 章：与经典（HTTP）网络交互
-* [简介](part3/README.md)
+* [简介](part4/README.md)
 * [使用 HTTP 浏览器从本地 IPFS 网关检索文件](part4/4-1.md)
 * [通过公共的 ipfs.io 网关获取文件内容](part4/4-2.md)
 * [通过任意 IPFS 网关访问 IPFS 的内容](part4/4-3.md)
